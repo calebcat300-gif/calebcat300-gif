@@ -1,49 +1,46 @@
-languages i have worked with
-<p>
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Ftypescript%2Ftypescript-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="typescript" title="typescript" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fuser-images.githubusercontent.com%2F103866722%2F194773833-8571f323-4fa8-4036-a51c-57b9d29c683b.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="x86/x64 assembly" title="x86/x64 assembly" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fcplusplus%2Fcplusplus-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="c++" title="c++" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fc%2Fc-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="c" title="c" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fpython%2Fpython-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="python" title="python" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fjavascript%2Fjavascript-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="javascript" title="javascript" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Flua%2Flua-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="lua" title="lua" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fbash%2Fbash-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="bash" title="bash" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fpowershell%2Fpowershell-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="powershell" title="powershell" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fbashlogo.com%2Fimg%2Fsymbol%2Fpng%2Fmonochrome_dark.png&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="windows batch" title="windows batch" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%40v16%2Ficons%2Fautohotkey.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="autohotkey" title="autohotkey" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techmonitor.ai%2Fwp-content%2Fuploads%2Fsites%2F29%2F2016%2F06%2FSQL.png&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="sql" title="sql" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Freact%2Freact-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="react" title="react" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fvuejs%2Fvuejs-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="vue" title="vue" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fnodejs%2Fnodejs-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="node.js" title="node.js" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fvitejs%2Fvitejs-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="vite" title="vite" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fthreejs%2Fthreejs-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="three.js" title="three.js" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fwebgl%2Fwebgl-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="webgl" title="webgl" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fhtml5%2Fhtml5-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="html" title="html" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fcss3%2Fcss3-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="css" title="css" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Ftailwindcss%2Ftailwindcss-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="tailwind css" title="tailwind css" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fsqlite%2Fsqlite-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="sqlite" title="sqlite" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fpostgresql%2Fpostgresql-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="postgresql" title="postgresql" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fmongodb%2Fmongodb-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="mongodb" title="mongodb" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fmysql%2Fmysql-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="mysql" title="mysql" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fredis%2Fredis-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="redis" title="redis" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Farchlinux%2Farchlinux-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="arch linux" title="arch linux" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fgentoo%2Fgentoo-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="gentoo" title="gentoo" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%40v16%2Ficons%2Fvoidlinux.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="void linux" title="void linux" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%40v16%2Ficons%2Fartixlinux.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="artix linux" title="artix linux" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%40v16%2Ficons%2Fcachyos.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="cachyos" title="cachyos" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Dbedrocklinux.org%26sz%3D128&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="bedrock linux" title="bedrock linux" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fdocker%2Fdocker-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="docker" title="docker" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fnixos%2Fnixos-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="nix" title="nix" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fgit%2Fgit-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="git" title="git" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fcmake%2Fcmake-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="cmake" title="cmake" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2FNationalSecurityAgency%2Fghidra%2Fmaster%2FGhidra%2FFramework%2FGui%2Fsrc%2Fmain%2Fresources%2Fimages%2FGhidraIcon256.png&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="ghidra" title="ghidra" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Dbinary.ninja%26sz%3D128&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="binary ninja" title="binary ninja" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsgl-project%2Fsgl-docs%2Fmain%2Ffavicon.png&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="sglang" title="sglang" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%40v16%2Ficons%2Follama.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="ollama" title="ollama" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fggml-org%2Fllama.brand%2Fmaster%2Ficon%2Ficon-light.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="llama.cpp" title="llama.cpp" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fpytorch%2Fpytorch-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="pytorch" title="pytorch" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Ftensorflow%2Ftensorflow-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="tensorflow" title="tensorflow" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fblender%2Fblender-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="blender" title="blender" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Faftereffects%2Faftereffects-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="adobe after effects" title="adobe after effects" />
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Ftauri%2Ftauri-original.svg&w=64&h=64&fit=contain&output=png&filter=greyscale" width="30" height="30" alt="tauri" title="tauri" />
+<h2>stuff i work with</h2><p>
+  <img src="https://cdn.simpleicons.org/typescript/999999" alt="typescript" title="typescript" width="32" height="32" />
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fuser-images.githubusercontent.com%2F103866722%2F194773833-8571f323-4fa8-4036-a51c-57b9d29c683b.svg&amp;output=png&amp;we&amp;filter=grayscale" alt="x86/x64 assembly" title="x86/x64 assembly" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/cplusplus/999999" alt="c++" title="c++" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/c/999999" alt="c" title="c" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/python/999999" alt="python" title="python" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/javascript/999999" alt="javascript" title="javascript" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/lua/999999" alt="lua" title="lua" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/gnubash/999999" alt="bash" title="bash" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/powershell/999999" alt="powershell" title="powershell" width="32" height="32" />
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fbashlogo.com%2Fimg%2Fsymbol%2Fpng%2Fmonochrome_dark.png&amp;output=png&amp;we&amp;filter=grayscale" alt="windows batch" title="windows batch" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/autohotkey/999999" alt="autohotkey" title="autohotkey" width="32" height="32" />
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techmonitor.ai%2Fwp-content%2Fuploads%2Fsites%2F29%2F2016%2F06%2FSQL.png&amp;output=png&amp;we&amp;filter=grayscale" alt="sql" title="sql" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/react/999999" alt="react" title="react" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/vuedotjs/999999" alt="vue" title="vue" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/999999" alt="node.js" title="node.js" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/vite/999999" alt="vite" title="vite" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/threedotjs/999999" alt="three.js" title="three.js" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/webgl/999999" alt="webgl" title="webgl" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/html5/999999" alt="html" title="html" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/css/999999" alt="css" title="css" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/999999" alt="tailwind css" title="tailwind css" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/sqlite/999999" alt="sqlite" title="sqlite" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/postgresql/999999" alt="postgresql" title="postgresql" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/mongodb/999999" alt="mongodb" title="mongodb" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/mysql/999999" alt="mysql" title="mysql" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/redis/999999" alt="redis" title="redis" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/archlinux/999999" alt="arch linux" title="arch linux" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/gentoo/999999" alt="gentoo" title="gentoo" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/voidlinux/999999" alt="void linux" title="void linux" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/artixlinux/999999" alt="artix linux" title="artix linux" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/cachyos/999999" alt="cachyos" title="cachyos" width="32" height="32" />
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Dbedrocklinux.org%26sz%3D128&amp;output=png&amp;we&amp;filter=grayscale" alt="bedrock linux" title="bedrock linux" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/docker/999999" alt="docker" title="docker" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/nixos/999999" alt="nix" title="nix" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/git/999999" alt="git" title="git" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/cmake/999999" alt="cmake" title="cmake" width="32" height="32" />
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2FNationalSecurityAgency%2Fghidra%2Fmaster%2FGhidra%2FFramework%2FGui%2Fsrc%2Fmain%2Fresources%2Fimages%2FGhidraIcon256.png&amp;output=png&amp;we&amp;filter=grayscale" alt="ghidra" title="ghidra" width="32" height="32" />
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Dbinary.ninja%26sz%3D128&amp;output=png&amp;we&amp;filter=grayscale" alt="binary ninja" title="binary ninja" width="32" height="32" />
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsgl-project%2Fsgl-docs%2Fmain%2Ffavicon.png&amp;output=png&amp;we&amp;filter=grayscale" alt="sglang" title="sglang" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/ollama/999999" alt="ollama" title="ollama" width="32" height="32" />
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fggml-org%2Fllama.brand%2Fmaster%2Ficon%2Ficon-light.svg&amp;output=png&amp;we&amp;filter=grayscale" alt="llama.cpp" title="llama.cpp" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/pytorch/999999" alt="pytorch" title="pytorch" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/tensorflow/999999" alt="tensorflow" title="tensorflow" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/tauri/999999" alt="tauri" title="tauri" width="32" height="32" />
 </p>
