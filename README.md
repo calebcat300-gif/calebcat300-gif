@@ -3,7 +3,7 @@
 <p>
   <img src="icons/typescript.png" width="34" height="34" alt="typescript" title="typescript" />
   <img src="icons/x86-x64-assembly.png" width="34" height="34" alt="x86/x64 assembly" title="x86/x64 assembly" />
-  <img src="icons/c.png" width="34" height="34" alt="c++" title="c++" />
+  <img src="icons/cplusplus.png" width="34" height="34" alt="c++" title="c++" />
   <img src="icons/c.png" width="34" height="34" alt="c" title="c" />
   <img src="icons/python.png" width="34" height="34" alt="python" title="python" />
   <img src="icons/javascript.png" width="34" height="34" alt="javascript" title="javascript" />
