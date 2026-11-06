@@ -32,7 +32,7 @@
   <img src="icons/void-linux.png" width="34" height="34" alt="void linux" title="void linux" />
   <img src="icons/artix-linux.png" width="34" height="34" alt="artix linux" title="artix linux" />
   <img src="icons/cachyos.png" width="34" height="34" alt="cachyos" title="cachyos" />
-  <img src="icons/bedrock-linux.png" width="56" height="56" alt="bedrock linux" title="bedrock linux" />
+  <img src="icons/bedrock-linux-color.png" width="34" height="34" alt="bedrock linux" title="bedrock linux" />
   <img src="icons/docker.png" width="34" height="34" alt="docker" title="docker" />
   <img src="icons/nix.png" width="34" height="34" alt="nix" title="nix" />
   <img src="icons/git.png" width="34" height="34" alt="git" title="git" />
@@ -41,7 +41,7 @@
   <img src="icons/binary-ninja.png" width="34" height="34" alt="binary ninja" title="binary ninja" />
   <img src="icons/sglang.png" width="34" height="34" alt="sglang" title="sglang" />
   <img src="icons/ollama.png" width="34" height="34" alt="ollama" title="ollama" />
-  <img src="icons/llama-cpp.png" width="56" height="56" alt="llama.cpp" title="llama.cpp" />
+  <img src="icons/llama-cpp-color.png" width="34" height="34" alt="llama.cpp" title="llama.cpp" />
   <img src="icons/pytorch.png" width="34" height="34" alt="pytorch" title="pytorch" />
   <img src="icons/tensorflow.png" width="34" height="34" alt="tensorflow" title="tensorflow" />
   <img src="icons/tauri.png" width="34" height="34" alt="tauri" title="tauri" />
