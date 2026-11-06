@@ -1,50 +1,72 @@
-![Discord Presence](https://lanyard.cnrad.dev/api/1439728287608999956?theme=dark&bg=0d0d0d&borderRadius=8px&hideDecoration=true)
+<p align="center"><img src="assets/header.svg" alt="endorphins — developer, linux, low-level, machine learning" width="100%" /></p>
 
-## stuff i work with
+<pre>
+$ whoami
+endorphins
+
+$ cat about.txt
+building software, experimenting with linux, and exploring low-level systems & ai.
+</pre>
+
+<sub><a href="https://endorphins.wiki">endorphins.wiki</a> · <a href="https://github.com/calebcat300-gif">github</a></sub>
+
+### status
+
+![discord presence](https://lanyard.cnrad.dev/api/1439728287608999956?theme=dark&bg=050505&borderRadius=6px&hideDecoration=true)
+
+### technologies
 
 <p>
-  <img src="icons/typescript.png" width="34" height="34" alt="typescript" title="typescript" />
-  <img src="icons/x86-x64-assembly.png" width="34" height="34" alt="x86/x64 assembly" title="x86/x64 assembly" />
-  <img src="icons/cplusplus-grayscale-v2.png" width="34" height="34" alt="c++" title="c++" />
-  <img src="icons/c.png" width="34" height="34" alt="c" title="c" />
-  <img src="icons/python.png" width="34" height="34" alt="python" title="python" />
-  <img src="icons/javascript.png" width="34" height="34" alt="javascript" title="javascript" />
-  <img src="icons/lua.png" width="34" height="34" alt="lua" title="lua" />
-  <img src="icons/bash.png" width="34" height="34" alt="bash" title="bash" />
-  <img src="icons/powershell.png" width="34" height="34" alt="powershell" title="powershell" />
-  <img src="icons/windows-batch.png" width="34" height="34" alt="windows batch" title="windows batch" />
-  <img src="icons/autohotkey.png" width="34" height="34" alt="autohotkey" title="autohotkey" />
-  <img src="icons/sql.png" width="34" height="34" alt="sql" title="sql" />
-  <img src="icons/react.png" width="34" height="34" alt="react" title="react" />
-  <img src="icons/vue.png" width="34" height="34" alt="vue" title="vue" />
-  <img src="icons/node-js.png" width="34" height="34" alt="node.js" title="node.js" />
-  <img src="icons/vite.png" width="34" height="34" alt="vite" title="vite" />
-  <img src="icons/three-js.png" width="34" height="34" alt="three.js" title="three.js" />
-  <img src="icons/webgl.png" width="34" height="34" alt="webgl" title="webgl" />
-  <img src="icons/html.png" width="34" height="34" alt="html" title="html" />
-  <img src="icons/css.png" width="34" height="34" alt="css" title="css" />
-  <img src="icons/tailwind-css.png" width="34" height="34" alt="tailwind css" title="tailwind css" />
-  <img src="icons/sqlite.png" width="34" height="34" alt="sqlite" title="sqlite" />
-  <img src="icons/postgresql.png" width="34" height="34" alt="postgresql" title="postgresql" />
-  <img src="icons/mongodb.png" width="34" height="34" alt="mongodb" title="mongodb" />
-  <img src="icons/mysql.png" width="34" height="34" alt="mysql" title="mysql" />
-  <img src="icons/redis.png" width="34" height="34" alt="redis" title="redis" />
-  <img src="icons/arch-linux.png" width="34" height="34" alt="arch linux" title="arch linux" />
-  <img src="icons/gentoo.png" width="34" height="34" alt="gentoo" title="gentoo" />
-  <img src="icons/void-linux.png" width="34" height="34" alt="void linux" title="void linux" />
-  <img src="icons/artix-linux.png" width="34" height="34" alt="artix linux" title="artix linux" />
-  <img src="icons/cachyos.png" width="34" height="34" alt="cachyos" title="cachyos" />
-  <img src="icons/bedrock-linux-original.png" width="34" height="34" alt="bedrock linux" title="bedrock linux" />
-  <img src="icons/docker.png" width="34" height="34" alt="docker" title="docker" />
-  <img src="icons/nix.png" width="34" height="34" alt="nix" title="nix" />
-  <img src="icons/git.png" width="34" height="34" alt="git" title="git" />
-  <img src="icons/cmake.png" width="34" height="34" alt="cmake" title="cmake" />
-  <img src="icons/ghidra.png" width="34" height="34" alt="ghidra" title="ghidra" />
-  <img src="icons/binary-ninja.png" width="34" height="34" alt="binary ninja" title="binary ninja" />
-  <img src="icons/sglang.png" width="34" height="34" alt="sglang" title="sglang" />
-  <img src="icons/ollama.png" width="34" height="34" alt="ollama" title="ollama" />
-  <img src="icons/llama-cpp-icon.svg" width="34" height="34" alt="llama.cpp" title="llama.cpp" />
-  <img src="icons/pytorch.png" width="34" height="34" alt="pytorch" title="pytorch" />
-  <img src="icons/tensorflow.png" width="34" height="34" alt="tensorflow" title="tensorflow" />
-  <img src="icons/tauri.png" width="34" height="34" alt="tauri" title="tauri" />
+  <img src="icons/typescript.png" alt="typescript" title="typescript" width="28" height="28" />
+  <img src="icons/x86-x64-assembly.png" alt="x86/x64 assembly" title="x86/x64 assembly" width="28" height="28" />
+  <img src="icons/cplusplus-grayscale-v2.png" alt="c++" title="c++" width="28" height="28" />
+  <img src="icons/c.png" alt="c" title="c" width="28" height="28" />
+  <img src="icons/python.png" alt="python" title="python" width="28" height="28" />
+  <img src="icons/javascript.png" alt="javascript" title="javascript" width="28" height="28" />
+  <img src="icons/lua.png" alt="lua" title="lua" width="28" height="28" />
+  <img src="icons/bash.png" alt="bash" title="bash" width="28" height="28" />
+  <img src="icons/powershell.png" alt="powershell" title="powershell" width="28" height="28" />
+  <img src="icons/windows-batch.png" alt="windows batch" title="windows batch" width="28" height="28" />
+  <img src="icons/autohotkey.png" alt="autohotkey" title="autohotkey" width="28" height="28" />
+  <img src="icons/sql.png" alt="sql" title="sql" width="28" height="28" />
+  <img src="icons/react.png" alt="react" title="react" width="28" height="28" />
+  <img src="icons/vue.png" alt="vue" title="vue" width="28" height="28" />
+  <img src="icons/node-js.png" alt="node.js" title="node.js" width="28" height="28" />
+  <img src="icons/vite.png" alt="vite" title="vite" width="28" height="28" />
+  <img src="icons/three-js.png" alt="three.js" title="three.js" width="28" height="28" />
+  <img src="icons/webgl.png" alt="webgl" title="webgl" width="28" height="28" />
+  <img src="icons/html.png" alt="html" title="html" width="28" height="28" />
+  <img src="icons/css.png" alt="css" title="css" width="28" height="28" />
+  <img src="icons/tailwind-css.png" alt="tailwind css" title="tailwind css" width="28" height="28" />
+  <img src="icons/sqlite.png" alt="sqlite" title="sqlite" width="28" height="28" />
+  <img src="icons/postgresql.png" alt="postgresql" title="postgresql" width="28" height="28" />
+  <img src="icons/mongodb.png" alt="mongodb" title="mongodb" width="28" height="28" />
+  <img src="icons/mysql.png" alt="mysql" title="mysql" width="28" height="28" />
+  <img src="icons/redis.png" alt="redis" title="redis" width="28" height="28" />
+  <img src="icons/arch-linux.png" alt="arch linux" title="arch linux" width="28" height="28" />
+  <img src="icons/gentoo.png" alt="gentoo" title="gentoo" width="28" height="28" />
+  <img src="icons/void-linux.png" alt="void linux" title="void linux" width="28" height="28" />
+  <img src="icons/artix-linux.png" alt="artix linux" title="artix linux" width="28" height="28" />
+  <img src="icons/cachyos.png" alt="cachyos" title="cachyos" width="28" height="28" />
+  <img src="icons/bedrock-linux-original.png" alt="bedrock linux" title="bedrock linux" width="28" height="28" />
+  <img src="icons/docker.png" alt="docker" title="docker" width="28" height="28" />
+  <img src="icons/nix.png" alt="nix" title="nix" width="28" height="28" />
+  <img src="icons/git.png" alt="git" title="git" width="28" height="28" />
+  <img src="icons/cmake.png" alt="cmake" title="cmake" width="28" height="28" />
+  <img src="icons/ghidra.png" alt="ghidra" title="ghidra" width="28" height="28" />
+  <img src="icons/binary-ninja.png" alt="binary ninja" title="binary ninja" width="28" height="28" />
+  <img src="icons/sglang.png" alt="sglang" title="sglang" width="28" height="28" />
+  <img src="icons/ollama.png" alt="ollama" title="ollama" width="28" height="28" />
+  <img src="icons/llama-cpp-icon.svg" alt="llama.cpp" title="llama.cpp" width="28" height="28" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nvidia/nvidia-original.svg" alt="cuda" title="cuda" width="28" height="28" />
+  <img src="icons/pytorch.png" alt="pytorch" title="pytorch" width="28" height="28" />
+  <img src="icons/tensorflow.png" alt="tensorflow" title="tensorflow" width="28" height="28" />
+  <img src="icons/openai-compatible-apis.png" alt="openai-compatible apis" title="openai-compatible apis" width="28" height="28" />
+  <img src="icons/tauri.png" alt="tauri" title="tauri" width="28" height="28" />
 </p>
+
+<sub>worked with · hover over an icon to inspect</sub>
+
+---
+
+<sub><code>~/endorphins.wiki</code> · built to stay minimal</sub>
