@@ -1,3 +1,5 @@
+![Discord Presence](https://lanyard.cnrad.dev/api/1439728287608999956?theme=dark&bg=0d0d0d&borderRadius=8px&hideDecoration=true)
+
 ## stuff i work with
 
 <p>
@@ -41,7 +43,7 @@
   <img src="icons/binary-ninja.png" width="34" height="34" alt="binary ninja" title="binary ninja" />
   <img src="icons/sglang.png" width="34" height="34" alt="sglang" title="sglang" />
   <img src="icons/ollama.png" width="34" height="34" alt="ollama" title="ollama" />
-  <img src="icons/llama-cpp-original.png" width="34" height="34" alt="llama.cpp" title="llama.cpp" />
+  <img src="icons/llama-cpp-icon.svg" width="34" height="34" alt="llama.cpp" title="llama.cpp" />
   <img src="icons/pytorch.png" width="34" height="34" alt="pytorch" title="pytorch" />
   <img src="icons/tensorflow.png" width="34" height="34" alt="tensorflow" title="tensorflow" />
   <img src="icons/tauri.png" width="34" height="34" alt="tauri" title="tauri" />
